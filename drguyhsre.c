@@ -1,1 +1,0 @@
-// write acode to find prime number or not
